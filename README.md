@@ -109,9 +109,9 @@ You can deploy this project using:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/tatouroberto)
-- Twitter: [@twitterhandle](https://twitter.com/Tatou_rob)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tatou-roberto-496b1413b/)
+- GitHub: [@tatouroberto](https://github.com/tatouroberto)
+- Twitter: [@Tatou_rob](https://twitter.com/Tatou_rob)
+- LinkedIn: [tatou-roberto-496b1413b](https://www.linkedin.com/in/tatou-roberto-496b1413b/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
